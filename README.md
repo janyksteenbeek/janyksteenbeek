@@ -6,5 +6,5 @@
 <a href="https://www.twitter.com/janyksteenbeek"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/janyksteenbeek"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.instagram.com/janyk"><img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram"></a>
-<img src="https://img.shields.io/badge/hi@janyk.nl-blue?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/me@janyk.nl-blue?style=for-the-badge&logo=gmail">
 </p>
