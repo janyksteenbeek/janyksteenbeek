@@ -14,5 +14,5 @@
     <img src="https://img.shields.io/badge/me@janyk.nl-blue?style=for-the-badge&logo=gmail">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=janyksteenbeek&show_icons=false&count_private=true&hide_rank=true">
+    <img src="https://metrics.lecoq.io/janyksteenbeek?template=classic&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAmsterdam">
 </p>
