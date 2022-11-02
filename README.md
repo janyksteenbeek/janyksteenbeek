@@ -11,8 +11,4 @@
     <a href="https://www.twitter.com/janyksteenbeek"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter"></a>
     <a href="https://www.linkedin.com/in/janyksteenbeek"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
     <a href="https://www.instagram.com/janyk"><img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram"></a>
-    <img src="https://img.shields.io/badge/gh@janyksteenbeek.nl-blue?style=for-the-badge&logo=gmail">
-</p>
-<p align="center">
-    <img src="https://metrics.lecoq.io/janyksteenbeek?template=classic&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAmsterdam">
 </p>
